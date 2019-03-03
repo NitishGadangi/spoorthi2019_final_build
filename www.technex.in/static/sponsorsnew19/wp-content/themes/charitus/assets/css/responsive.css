@@ -1,0 +1,790 @@
+/*
+|===================
+|  Only Large Display
+|===================
+*/
+
+@media only screen and (min-width: 768px) {
+  .charitus-navigation .navbar-nav > li:last-child {
+    padding-right: 0!important;
+  }
+  .charitus-navigation .navbar-collapse.collapse {
+    padding: 0;
+  }
+  .ch-mobile-menu-location {
+    display: none;
+  }
+}
+
+
+/*
+|===================
+|  MEDIUM DEVICES
+|===================
+*/
+@media only screen and (max-width: 1500px) {
+  .ch-event .owl-next {
+    right: -5%;
+  }
+  .ch-event .owl-prev {
+    left: -5%;
+  }
+  .client-quates {
+    padding: 0 20px 20px 0;
+  }
+
+  .header-slider:hover .owl-prev {
+    left: 1%;
+  }
+  .header-slider:hover .owl-next {
+    right: 1%;
+  }
+}
+@media only screen and (max-width: 1300px) {
+  .header-slider:hover .owl-prev {
+    opacity: 0;
+  }
+  .header-slider:hover .owl-next {
+    opacity: 0;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .section-separator {
+    padding: 80px 0;
+  }
+  .ch-event .owl-next,
+  .charitus-donation-causes-slider .owl-next {
+    right: 42%;
+    top: 100%;
+  }
+  .ch-event .owl-prev,
+  .charitus-donation-causes-slider .owl-prev {
+    left: 42%;
+    top: 100%;
+  }
+  .ch-client .ch-client-logos ul li {
+    width: 15%;
+    margin: 0 15px;
+  }
+  .ch-footer .ch-footer-causes ul li .ch-causes-details h4 {
+    line-height: 26px;
+  }
+  .ch-footer .ch-footer-causes ul li .ch-causes-details p {
+    line-height: 20px;
+  }
+}
+/*
+|===================
+| TAB LANDSCAPE
+|===================
+*/
+@media only screen and (max-width: 1024px) {
+  .project-loader-backButton {
+    margin: 0;
+  }
+  .features-inner .features-content {
+    padding: 20px 30px 10px 10px;
+  }
+  .ch-contact-content .contact-item .padding-left-o {
+    padding-left: 15px;
+  }
+}
+/*
+|===================
+| TAB PORTRAIT
+|===================
+*/
+@media only screen and (max-width: 991px) {
+  .client-quates {
+    padding: 0 15px 35px;
+  }
+  .xt-vc-column-sm-no-padding .section-title {
+    padding: 0 15px;
+  }
+  .woocommerce-pagination {
+    margin-bottom: 46px;
+  }
+  .header-slider .slide-tablecell .slide-text h1 {
+    font-size: 45px;
+    line-height: 55px;
+  }
+  .admin-bar .navbar.xt-navbar.strict {
+    top: 46px;
+  }
+  .vc_column_container.xt-vc-column-sm-no-padding > .vc_column-inner  {
+    padding-left: 0!important;
+    padding-right: 0!important;
+  }
+  .ch-mission-item h4 {
+    font-size: 21px;
+  }
+  .section-separator {
+    padding: 30px 0;
+  }
+  .charitus-navigation .navbar-nav > li {
+    padding: 0 10px!important;
+  }
+  .ch-pre-header-item-left span:after, .ch-pre-header-menu li:after {
+    margin: 0 5px;
+  }
+  .ch-mission-content .icon .fa {
+    font-size: 35px;
+  }
+  .ch-causes .cause-inner-content h4 {
+    line-height: 32px;
+  }
+  .ch-causes .fund-process {
+    width: 77%;
+  }
+  .ch-donation-causes-list .cause-inner img {
+    float: none;
+    margin: 0 auto;
+  }
+  .ch-donation-event-list .event-inner img {
+    float: none;
+    margin: 0 auto;
+  }
+  .ch-event .event-content .event-time {
+    display: block;
+  }
+  .ch-event .owl-nav,
+  .charitus-donation-causes-slider .owl-nav {
+    padding-bottom: 30px;
+  }
+  .ch-event .owl-controls,
+  .charitus-donation-causes-slider .owl-controls {
+    margin-top: 20px;
+  }
+  .ch-event .owl-nav > div,
+  .charitus-donation-causes-slider .owl-nav > div {
+    top: inherit;
+    bottom: 0;
+  }
+  .vl-icon {
+    float: none;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .ch-volanteer .vl-thumb img {
+    float: none;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .ch-volanteer .vl-thumb {
+    margin-bottom: 30px;
+  }
+  .ch-testimonial {
+    background-color: #3cb878;
+  }
+  .ch-client .ch-client-logos ul li {
+    float: left;
+    margin: 15px auto;
+    width: 50%;
+    text-align: center;
+  }
+  .ch-client .ch-client-logos ul li img {
+    float: none;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .ch-widget {
+    margin-top: 30px;
+  }
+  .ch-footer .ch-footer-causes ul li .ch-causes-details h4 {
+    margin-top: 10px;
+  }
+  .navbar > .container .navbar-brand,
+  .navbar > .container-fluid .navbar-brand {
+    margin-left: 0;
+  }
+  .each-features,
+  .ch-donation-stats-item-column {
+    margin-bottom: 30px;
+  }
+  .charitus-join-us {
+    margin-bottom: 0;
+  }
+  .charitus-join-us p {
+    padding: 0 80px 0 0;
+  }
+  .ch-client form .btn {
+    float: none;
+  }
+  .footer-content .ch-widget {
+    float: left;
+  }
+  .ch-client .contact-form .section-title {
+    text-align: center;
+  }
+  .ch-pagination .pagination li a {
+    margin-bottom: 20px;
+  }
+  .charitus-blog-tags-n-share .social-share {
+    text-align: left;
+    margin-top: 30px;
+    padding-left: 0;
+  }
+  .ch-contact-content .contact-item {
+    text-align: center;
+  }
+  .ch-contact-content .contact-item .padding-left-o {
+    padding-left: 15px;
+  }
+  .ch-contact-content .icon {
+    margin-bottom: 20px;
+  }
+}
+/*
+|===================s
+| MOBILE DEVICES
+|===================
+*/
+@media only screen and (max-width: 768px) {
+  .site-content {
+    min-height: inherit;
+  }
+  .content-area {
+    margin-bottom: 40px;
+  }
+  .campaign-loop.campaign-grid .campaign.hentry { width: 100% !important; }
+  .copyright .social ul {
+    margin-bottom: 6px;
+  }
+  .copyright .social li {
+    display: inline-block;
+  }
+  .vc_row > .wpb_column:last-child .wpb_wrapper .ch-mission-item:last-child {
+    margin-bottom: 0;
+  }
+  .ch-call-to-action-wrapper.table-display {
+    display: block;
+    overflow: hidden;
+    text-align: center;
+  }
+  .ch-call-to-action-wrapper.table-display .btn.pull-right {
+    float: none!important;
+    margin: 15px 0 auto!important;
+  }
+  .charitus-join-us {
+    margin-bottom: 35px;
+  }
+  .ch-client .ch-client-logos ul li:first-child {
+    margin-left: 0;
+    margin-top: 0;
+  }
+  .charitus-join-us p {
+    padding: 0;
+  }
+  .fame-item {
+    margin-top: 35px;
+  }
+  .collapse {
+    display: block;
+  }
+  .navbar {
+    background: #fff;
+  }
+  .navbar-fixed-bottom .navbar-collapse,
+  .navbar-fixed-top .navbar-collapse {
+    max-height: inherit;
+  }
+  .navbar-toggle .icon {
+    transform: translateX(-50%) translateY(-50%) translateZ(0) rotate(0deg) scale(1);
+    -o-transform: translateX(-50%) translateY(-50%) translateZ(0) rotate(0deg) scale(1);
+    -ms-transform: translateX(-50%) translateY(-50%) translateZ(0) rotate(0deg) scale(1);
+    -moz-transform: translateX(-50%) translateY(-50%) translateZ(0) rotate(0deg) scale(1);
+    -webkit-transform: translateX(-50%) translateY(-50%) translateZ(0) rotate(0deg) scale(1);
+  }
+  .navbar-toggle .icon,
+  .navbar-toggle .icon::after,
+  .navbar-toggle .icon::before {
+    width: 22px;
+    height: 2px;
+    position: absolute;
+    background-color: #3cb878;
+    -webkit-transition: all 0.6s ease-out;
+    -moz-transition: all 0.6s ease-out;
+    -o-transition: all 0.6s ease-out;
+    -ms-transition: all 0.6s ease-out;
+    transition: all 0.6s ease-out;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    border-radius: 2px;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+  }
+  .navbar-toggle .icon::after,
+  .navbar-toggle .icon::before {
+    background-color: #3cb878;
+    content: '';
+    top: 0;
+    right: 0;
+    -webkit-transition: all 0.6s ease-out;
+    -moz-transition: all 0.6s ease-out;
+    -o-transition: all 0.6s ease-out;
+    -ms-transition: all 0.6s ease-out;
+    transition: all 0.6s ease-out;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  .navbar-toggle .icon::after {
+    transform: translateX(0) translateY(6px) translateZ(0) rotate(0deg) scale(1);
+    -o-transform: translateX(0) translateY(6px) translateZ(0) rotate(0deg) scale(1);
+    -ms-transform: translateX(0) translateY(6px) translateZ(0) rotate(0deg) scale(1);
+    -moz-transform: translateX(0) translateY(6px) translateZ(0) rotate(0deg) scale(1);
+    -webkit-transform: translateX(0) translateY(6px) translateZ(0) rotate(0deg) scale(1);
+  }
+  .navbar-toggle .icon::before {
+    transform: translateX(0) translateY(-6px) translateZ(0) rotate(0deg) scale(1);
+    -o-transform: translateX(0) translateY(-6px) translateZ(0) rotate(0deg) scale(1);
+    -ms-transform: translateX(0) translateY(-6px) translateZ(0) rotate(0deg) scale(1);
+    -moz-transform: translateX(0) translateY(-6px) translateZ(0) rotate(0deg) scale(1);
+    -webkit-transform: translateX(0) translateY(-6px) translateZ(0) rotate(0deg) scale(1);
+  }
+  .navbar-toggle.active .icon::after {
+    transform: translateX(0) translateY(0) translateZ(0) rotate(138deg) scale(1);
+    -o-transform: translateX(0) translateY(0) translateZ(0) rotate(138deg) scale(1);
+    -ms-transform: translateX(0) translateY(0) translateZ(0) rotate(138deg) scale(1);
+    -moz-transform: translateX(0) translateY(0) translateZ(0) rotate(138deg) scale(1);
+    -webkit-transform: translateX(0) translateY(0) translateZ(0) rotate(138deg) scale(1);
+  }
+  .navbar-toggle.active .icon::before {
+    transform: translateX(0) translateY(0) translateZ(0) rotate(-135deg) scale(1);
+    -o-transform: translateX(0) translateY(0) translateZ(0) rotate(-135deg) scale(1);
+    -ms-transform: translateX(0) translateY(0) translateZ(0) rotate(-135deg) scale(1);
+    -moz-transform: translateX(0) translateY(0) translateZ(0) rotate(-135deg) scale(1);
+    -webkit-transform: translateX(0) translateY(0) translateZ(0) rotate(-135deg) scale(1);
+  }
+  .navbar-toggle.active .icon {
+    background-color: #fff;
+  }
+  .navbar-toggle.active .icon::after,
+  .navbar-toggle.active .icon::before {
+    background-color: #3cb878;
+  }
+  .navbar-toggle.active {
+    background-color: transparent;
+  }
+  .navbar-toggle:focus {
+    outline: 0 !important;
+  }
+  .navbar-toggle {
+    padding: 15px;
+    margin-right: 30px;
+    margin-left: 15px;
+    z-index: 1000;
+    -webkit-transition: all 0.4s ease-out;
+    -moz-transition: all 0.4s ease-out;
+    -o-transition: all 0.4s ease-out;
+    -ms-transition: all 0.4s ease-out;
+    transition: all 0.4s ease-out;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: block;
+  }
+  .main-navigation .navbar-header .navbar-toggle .icon-bar {
+    background-color: #E26127;
+    -webkit-transition: all 0.4s ease-out;
+    -moz-transition: all 0.4s ease-out;
+    -o-transition: all 0.4s ease-out;
+    -ms-transition: all 0.4s ease-out;
+    transition: all 0.4s ease-out;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  .main-navigation .navbar-header .navbar-toggle.active .icon-bar {
+    background-color: #FFFFFF;
+  }
+  /*-------------------------------*/
+  /*            Overlay            */
+  /*-------------------------------*/
+  .overlay {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.4);
+    z-index: 3;
+  }
+  .overlay.active {
+    display: block;
+  }
+  /*  Navigation Menu */
+  .navbar-collapse {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    z-index: 990;
+    margin-top: 0px;
+    padding: 0;
+    background-color: #fff;
+    transform: translateX(-100%) translateY(0) translateZ(0) rotate(0deg) scale(1);
+    -o-transform: translateX(-100%) translateY(0) translateZ(0) rotate(0deg) scale(1);
+    -ms-transform: translateX(-100%) translateY(0) translateZ(0) rotate(0deg) scale(1);
+    -moz-transform: translateX(-100%) translateY(0) translateZ(0) rotate(0deg) scale(1);
+    -webkit-transform: translateX(-100%) translateY(0) translateZ(0) rotate(0deg) scale(1);
+    -webkit-transition: all 0.4s ease-out;
+    -moz-transition: all 0.4s ease-out;
+    -o-transition: all 0.4s ease-out;
+    -ms-transition: all 0.4s ease-out;
+    transition: all 0.4s ease-out;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-y: scroll;
+  }
+  .navbar-collapse .nav {
+    margin-top: 75px;
+    border-top: 1px solid;
+    border-top-color: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    padding-right: 0;
+  }
+  .navbar-collapse .nav li {
+    text-align: center;
+    margin-bottom: 20px;
+    -webkit-transition: all 0.4s ease-out;
+    -moz-transition: all 0.4s ease-out;
+    -o-transition: all 0.4s ease-out;
+    -ms-transition: all 0.4s ease-out;
+    transition: all 0.4s ease-out;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate3d(-20px, -10px, 0);
+  }
+  .navbar-collapse .nav li a {
+    background-color: transparent;
+    text-transform: uppercase;
+    font-size: 17px;
+    line-height: 26px;
+  }
+  .navbar-collapse .nav li a:hover {
+    color: #3cb878 !important;
+    background: transparent;
+  }
+  .navbar-collapse .nav li a.active {
+    color: #fff;
+  }
+  .navbar-collapse .nav li.active {
+    color: #fff;
+  }
+  .navbar-collapse.active {
+    transform: translateX(0) translateY(0) translateZ(0) rotate(0deg) scale(1);
+    -o-transform: translateX(0) translateY(0) translateZ(0) rotate(0deg) scale(1);
+    -ms-transform: translateX(0) translateY(0) translateZ(0) rotate(0deg) scale(1);
+    -moz-transform: translateX(0) translateY(0) translateZ(0) rotate(0deg) scale(1);
+    -webkit-transform: translateX(0) translateY(0) translateZ(0) rotate(0deg) scale(1);
+  }
+  .collapse.in {
+    background-color: rgba(0, 0, 0, 0.9);
+  }
+  .strict {
+    background-color: #fff;
+  }
+  .navbar-nav > li > .dropdown-menu {
+    padding: 10px 0px;
+  }
+  .navbar-nav > li > .dropdown-menu li {
+    display: block;
+  }
+  .section-title {
+    margin-bottom: 40px;
+    padding: 0 30px;
+  }
+  .each-features {
+    margin-bottom: 30px;
+  }
+  .ch-causes .cause-inner-content {
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+  }
+  .ch-event {
+    padding-bottom: 20px;
+  }
+  .ch-event .event-banner .date {
+    left: 0;
+    padding: 10px 16px;
+  }
+  .ch-event .owl-next {
+    right: 35%;
+    top: 97%;
+  }
+  .ch-event .owl-prev {
+    left: 35%;
+    top: 97%;
+  }
+  .ch-mission-content .icon {
+    margin-bottom: 20px;
+  }
+  .ch-testimonial .section-title {
+    padding-left: 30px;
+    text-align: center;
+  }
+  .ch-client-testimonial .item blockquote {
+    padding: 10px 35px;
+  }
+  .ch-client-testimonial .item blockquote h3 {
+    margin-bottom: 5px;
+  }
+  .ch-client-testimonial #quote-carousel .carousel-indicators {
+    right: 0;
+    left: 0;
+    top: auto;
+    bottom: 0px;
+    margin-top: 20px;
+    margin-right: 0px;
+    text-align: center;
+    float: none;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 30px;
+  }
+  .ch-client .ch-client-logos ul li:first-child {
+    margin-left: 0px;
+  }
+  .ch-client .ch-client-logos ul li {
+    width: 50%;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+  .ch-client .ch-client-logos ul li img {
+    float: none;
+    text-align: center;
+    margin: 0 auto;
+  }
+  .ch-client-testimonial #quote-carousel {
+    padding: 0 0 50px;
+    margin: 0px;
+    width: 100%;
+  }
+  .ch-client form .btn {
+    float: none;
+  }
+  .ch-footer .ch-footer-info img {
+    float: none;
+    margin: 0 auto;
+    margin-bottom: 20px;
+  }
+  .ch-widget ul li {
+    display: block;
+    margin-bottom: 8px;
+  }
+  .ch-footer .ch-footer-causes ul li .ch-causes-details h4 {
+    text-align: left;
+  }
+  .ch-footer .ch-footer-causes ul li .ch-causes-details p {
+    text-align: left;
+  }
+  .social {
+    margin: 0 auto;
+    float: none;
+    text-align: center;
+  }
+  .copyright .coptyright-content {
+    text-align: center;
+  }
+  .copyright .coptyright-content p {
+    line-height: normal;
+  }
+  .ch-pagination .pagination li a {
+    margin-right: 6px;
+    padding: 6px 12px;
+  }
+  .ch-causes-list-item .table-display {
+    display: block;
+    -webkit-display: block;
+  }
+  .two-column-content {
+    display: block;
+  }
+  .two-column-content .inner {
+    display: none;
+  }
+  .ch-blog .blog-banner .date {
+    left: 0;
+  }
+  .ch-sidebar-event .event-content {
+    display: block;
+  }
+  .tags {
+    margin-bottom: 20px;
+  }
+  .comment h5 {
+    text-align: left;
+  }
+  .comment p {
+    text-align: left;
+  }
+  .comment h5 span {
+    display: block;
+  }
+  .ch-client .ch-client-logos ul li {
+    margin-bottom: 30px;
+  }
+  .ch-contact-content .icon .fa {
+    margin-bottom: 20px;
+  }
+  .ch-contact-content .contact-item {
+    margin-bottom: 20px;
+  }
+  .footer-content .ch-widget {
+    float: none;
+    margin-bottom: 30px;
+  }
+  
+  .ch-client-testimonial #quote-carousel .carousel-indicators li:before {
+    top: -34px;
+  }
+  .ch-pre-header-mobile-disable {
+    display: none;
+  }
+}
+/*
+|===================
+| SMALL MOBILE
+|===================
+*/
+@media only screen and (max-width: 420px) {
+  .charitus-campaign-meta i {
+    display: none;
+  }
+  .ch-causes .charitus-campaign-content .fund-process {
+      width: 73%;
+  }
+  .ch-call-to-action h3 {
+    font-size: 24px;
+    line-height: 1.2;
+  }
+  .ch-woocommerce-shop-filter-wrapper > * {
+    float: none!important;
+    text-align: center;
+  }
+  .woocommerce .ch-woocommerce-shop-filter-wrapper .woocommerce-result-count {
+    margin-bottom: 10px!important;
+  }
+  .comment-list li.comment .charitus-media-left img {
+    min-width: 50px;
+    max-width: 50px; 
+  }
+  .comments-area span.comment-metadata a,
+  .charitus-media-heading .comment-metadata {
+    margin-left: 0;
+    font-size: 12px;
+    display: block;
+    line-height: normal;
+  }
+  .comment-list .children .children {
+    margin-left: 0;
+  }
+  .charitus-media-body {
+    padding-left: 15px;
+  }
+  .charitus-author-avatar {
+    margin-bottom: 30px;
+  }
+  .xt-page-title h1 {
+    line-height: 1.2;
+  }
+  .xt-breadcrumb-wrapper > nav {
+    margin-top: 0;
+  }
+  .xt-breadcrumb-wrapper {
+    text-align: center;
+  }
+  .xt-breadcrumb-wrapper .trail-begin {
+    margin-left: 0;
+  }
+  .xt-page-title-area {
+    text-align: center;
+  }
+  .ch-event .owl-item, .charitus-donation-causes-slider .owl-item {
+    padding: 0;
+  }
+  .xt-page-layout-full-width .entry-content > .vc_row, 
+  .xt-page-layout-full-width .entry-content > .container > .vc_row {
+    padding-top: 45px;
+    padding-bottom: 45px;
+  }
+  .section-title h2,
+  .ch-campaign-search h2 {
+    font-size: 32px;
+    line-height: 42px;
+  }
+  .admin-bar .navbar.xt-navbar.strict {
+    top: 0;
+  }
+  .ch-join .table-display {
+    display: block;
+    -webkit-display: block;
+  }
+  .ch-join .join-btn .btn {
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    float: none !important;
+    margin: 0 auto;
+    margin-top: 30px;
+  }
+  .ch-event .owl-next,
+  .charitus-donation-causes-slider .owl-next {
+    left: 55%;
+  }
+  .ch-event .owl-prev,
+  .charitus-donation-causes-slider .owl-prev {
+    left: 35%;
+  }
+  .section-title {
+    padding: 0 5px;
+  }
+  .header-slider .slide-tablecell .slide-text h1 {
+    font-size: 40px;
+    line-height: 50px;
+  }
+  .ch-testimonial .section-title {
+    padding-left: 5px;
+  }
+  .ch-pagination .pagination li a {
+    margin-right: 6px;
+    padding: 4px 8px;
+  }
+  .blog-content h1.entry-title {
+    font-size: 25px;
+    margin-bottom: 15px;
+  }
+  .site-content {
+    margin: 15px 0;
+  }
+  .ch-blog .blog-content,
+  .charitus-blog-tags-n-share,
+  .xt-author-bio,
+  .comments-area,
+  .blog_widget,
+  .ch-causes .cause-inner-content,
+  .ch-event .event-content,
+  body.xt-page-layout-grid article.page, 
+  body.xt-campaign-layout-grid article.campaign,
+  .charitus-shadow-padding, 
+  .xt-vc-column-theme-primary > .vc_column-inner,
+  body .ch-product-wrapper-inner,
+  body .ch-single-product-wrapper-inner,
+  body.woocommerce div.product .woocommerce-tabs .panel {
+    padding: 15px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .admin-bar .navbar.xt-navbar.strict {
+    top: 0;
+  }
+  .navbar.xt-navbar.ch-stick {
+    position: relative;
+  }
+}

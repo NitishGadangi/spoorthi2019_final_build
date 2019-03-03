@@ -1,0 +1,99 @@
+
+
+html{background-color:#fff}
+
+.preloader {
+			background: -webkit-linear-gradient(left, #090025 0%, #2f0028 100%);
+			background: -o-linear-gradient(left, #090025 0%, #2f0028 100%);
+			background: linear-gradient(to right, #090025 0%, #2f0028 100%);
+			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#090025', endColorstr='#2f0028',GradientType=1 );
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			z-index: 999;
+		}
+		.preloader-ring {
+			width: 50px;
+		  height: 50px;
+		  margin: 0 auto;
+		  position: absolute;
+		  top: 50%;
+		  left: 50%;
+		  -webkit-transform: translate(-50%, -50%);
+		  -ms-transform: translate(-50%, -50%);
+		  -o-transform: translate(-50%, -50%);
+		  transform: translate(-50%, -50%);
+		}
+		.preloader-ring::before, .preloader-ring::after {
+			content: "";
+			display: block;
+			width: 100%;
+			height: 100%;
+			border-radius: 50%;
+			border: 1px dotted #6042ff;
+			opacity: 0.6;
+			position: absolute;
+			top: 0;
+			left: 0;
+			animation: sk-bounce 2.0s linear infinite;
+		 }
+		.preloader-ring::after {
+			animation-delay: -1.0s;
+		}
+		@keyframes sk-bounce {
+			0% {
+				-webkit-transform: transform: scale(0.0);
+				-ms-transform: transform: scale(0.0);
+				-o-transform: transform: scale(0.0);
+				transform: scale(0.0);
+			}
+			20% {
+				-webkit-transform: transform: scale(1.0);
+				-ms-transform: transform: scale(1.0);
+				-o-transform: transform: scale(1.0);
+				transform: scale(1.0);
+			}
+			40% {
+				-webkit-transform: transform: scale(1.5);
+				-ms-transform: transform: scale(1.5);
+				-o-transform: transform: scale(1.5);
+				transform: scale(1.5);
+			}
+			60% {
+				-webkit-transform: transform: scale(2.0);
+				-ms-transform: transform: scale(2.0);
+				-o-transform: transform: scale(2.0);
+				transform: scale(2.0);
+				opacity: .5;
+			}
+			80% {
+				-webkit-transform: transform: scale(2.5);
+				-ms-transform: transform: scale(2.5);
+				-o-transform: transform: scale(2.5);
+				transform: scale(2.5);
+				opacity: .25;
+			}
+			100% {
+				-webkit-transform: transform: scale(3.0);
+				-ms-transform: transform: scale(3.0);
+				-o-transform: transform: scale(3.0);
+				transform: scale(3.0);
+				opacity: 0;
+			}
+		}
+		.menu-list-item a,
+		.section-header--up,
+		.main__year span,
+		.main__header,
+		.news__header,
+		.section-header,
+
+		.fixed-nav,
+		.header,
+		.section-main .hud--main {
+			opacity: 0;
+		}
+/* End */
+/* /local/templates/neurohive/assets/css/home.css?15296873262400 */

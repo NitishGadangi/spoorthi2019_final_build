@@ -1,0 +1,138 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 23 Feb 2019 14:49:04 at https://www.technex.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.technex.in/ -O1 "D:\@WEB\!!technix\technix" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:49:06	Warning: 	File not parsed, looks like binary: https://www.technex.in/robots.txt
+14:55:40	Warning: 	Found for https://www.technex.in/dashboard/?event=daeroglisseur
+14:55:40	Warning: 	File has moved from https://www.technex.in/dashboard/?event=daeroglisseur to /register/?next=/dashboard/%3Fevent%3Ddaeroglisseur
+14:55:40	Warning: 	Found for https://www.technex.in/dashboard/?event=drone-tech
+14:55:40	Warning: 	File has moved from https://www.technex.in/dashboard/?event=drone-tech to /register/?next=/dashboard/%3Fevent%3Ddrone-tech
+14:55:40	Warning: 	Found for https://www.technex.in/dashboard/?event=la-trajectoire
+14:55:40	Warning: 	File has moved from https://www.technex.in/dashboard/?event=la-trajectoire to /register/?next=/dashboard/%3Fevent%3Dla-trajectoire
+14:55:41	Warning: 	Found for https://www.technex.in/dashboard/?event=momentum
+14:55:41	Warning: 	File has moved from https://www.technex.in/dashboard/?event=momentum to /register/?next=/dashboard/%3Fevent%3Dmomentum
+14:55:46	Warning: 	Found for https://www.technex.in/dashboard/?event=capturetheflag
+14:55:46	Warning: 	File has moved from https://www.technex.in/dashboard/?event=capturetheflag to /register/?next=/dashboard/%3Fevent%3Dcapturetheflag
+14:55:47	Warning: 	Found for https://www.technex.in/dashboard/?event=hackathon
+14:55:47	Warning: 	File has moved from https://www.technex.in/dashboard/?event=hackathon to /register/?next=/dashboard/%3Fevent%3Dhackathon
+14:55:47	Warning: 	Found for https://www.technex.in/dashboard/?event=international-coding-marathon
+14:55:47	Warning: 	File has moved from https://www.technex.in/dashboard/?event=international-coding-marathon to /register/?next=/dashboard/%3Fevent%3Dinternational-coding-marathon
+14:55:47	Warning: 	Found for https://www.technex.in/dashboard/?event=mlware
+14:55:47	Warning: 	File has moved from https://www.technex.in/dashboard/?event=mlware to /register/?next=/dashboard/%3Fevent%3Dmlware
+14:55:51	Warning: 	Found for https://www.technex.in/dashboard/?event=axelerate
+14:55:51	Warning: 	File has moved from https://www.technex.in/dashboard/?event=axelerate to /register/?next=/dashboard/%3Fevent%3Daxelerate
+14:55:53	Warning: 	Found for https://www.technex.in/dashboard/?event=bridgeit
+14:55:53	Warning: 	File has moved from https://www.technex.in/dashboard/?event=bridgeit to /register/?next=/dashboard/%3Fevent%3Dbridgeit
+14:55:53	Warning: 	Found for https://www.technex.in/dashboard/?event=goldbergs-alley
+14:55:53	Warning: 	File has moved from https://www.technex.in/dashboard/?event=goldbergs-alley to /register/?next=/dashboard/%3Fevent%3Dgoldbergs-alley
+14:55:54	Warning: 	Found for https://www.technex.in/dashboard/?event=hydracs
+14:55:54	Warning: 	File has moved from https://www.technex.in/dashboard/?event=hydracs to /register/?next=/dashboard/%3Fevent%3Dhydracs
+14:55:56	Warning: 	Found for https://www.technex.in/dashboard/?event=green-tech
+14:55:56	Warning: 	File has moved from https://www.technex.in/dashboard/?event=green-tech to /register/?next=/dashboard/%3Fevent%3Dgreen-tech
+14:55:57	Warning: 	Found for https://www.technex.in/dashboard/?event=iomatic
+14:55:57	Warning: 	File has moved from https://www.technex.in/dashboard/?event=iomatic to /register/?next=/dashboard/%3Fevent%3Diomatic
+14:55:58	Warning: 	Found for https://www.technex.in/dashboard/?event=manifest
+14:55:58	Warning: 	File has moved from https://www.technex.in/dashboard/?event=manifest to /register/?next=/dashboard/%3Fevent%3Dmanifest
+14:55:58	Warning: 	Found for https://www.technex.in/dashboard/?event=soft-corner
+14:55:58	Warning: 	File has moved from https://www.technex.in/dashboard/?event=soft-corner to /register/?next=/dashboard/%3Fevent%3Dsoft-corner
+14:56:01	Warning: 	Found for https://www.technex.in/dashboard/?event=adhyayan
+14:56:01	Warning: 	File has moved from https://www.technex.in/dashboard/?event=adhyayan to /register/?next=/dashboard/%3Fevent%3Dadhyayan
+14:56:02	Warning: 	Found for https://www.technex.in/dashboard/?event=enquista
+14:56:02	Warning: 	File has moved from https://www.technex.in/dashboard/?event=enquista to /register/?next=/dashboard/%3Fevent%3Denquista
+14:56:03	Warning: 	Found for https://www.technex.in/dashboard/?event=industry-remodelled
+14:56:03	Warning: 	File has moved from https://www.technex.in/dashboard/?event=industry-remodelled to /register/?next=/dashboard/%3Fevent%3Dindustry-remodelled
+14:56:03	Warning: 	Found for https://www.technex.in/dashboard/?event=qriosity
+14:56:03	Warning: 	File has moved from https://www.technex.in/dashboard/?event=qriosity to /register/?next=/dashboard/%3Fevent%3Dqriosity
+14:56:06	Warning: 	Found for https://www.technex.in/dashboard/?event=she
+14:56:06	Warning: 	File has moved from https://www.technex.in/dashboard/?event=she to /register/?next=/dashboard/%3Fevent%3Dshe
+14:56:08	Warning: 	Found for https://www.technex.in/dashboard/?event=analiticity
+14:56:08	Warning: 	File has moved from https://www.technex.in/dashboard/?event=analiticity to /register/?next=/dashboard/%3Fevent%3Danaliticity
+14:56:09	Warning: 	Found for https://www.technex.in/dashboard/?event=bulls-floor
+14:56:09	Warning: 	File has moved from https://www.technex.in/dashboard/?event=bulls-floor to /register/?next=/dashboard/%3Fevent%3Dbulls-floor
+14:56:09	Warning: 	Found for https://www.technex.in/dashboard/?event=economists-enigma
+14:56:09	Warning: 	File has moved from https://www.technex.in/dashboard/?event=economists-enigma to /register/?next=/dashboard/%3Fevent%3Deconomists-enigma
+14:56:15	Warning: 	Found for https://www.technex.in/dashboard/?event=krackat
+14:56:15	Warning: 	File has moved from https://www.technex.in/dashboard/?event=krackat to /register/?next=/dashboard/%3Fevent%3Dkrackat
+14:56:15	Warning: 	Found for https://www.technex.in/dashboard/?event=manthan
+14:56:15	Warning: 	File has moved from https://www.technex.in/dashboard/?event=manthan to /register/?next=/dashboard/%3Fevent%3Dmanthan
+14:56:15	Warning: 	Found for https://www.technex.in/dashboard/?event=hurdlemania
+14:56:15	Warning: 	File has moved from https://www.technex.in/dashboard/?event=hurdlemania to /register/?next=/dashboard/%3Fevent%3Dhurdlemania
+14:56:16	Warning: 	Found for https://www.technex.in/dashboard/?event=maze-xplorer
+14:56:16	Warning: 	File has moved from https://www.technex.in/dashboard/?event=maze-xplorer to /register/?next=/dashboard/%3Fevent%3Dmaze-xplorer
+14:56:24	Warning: 	Found for https://www.technex.in/dashboard/?event=pixelate
+14:56:24	Warning: 	File has moved from https://www.technex.in/dashboard/?event=pixelate to /register/?next=/dashboard/%3Fevent%3Dpixelate
+14:56:25	Warning: 	Found for https://www.technex.in/dashboard/?event=robowars
+14:56:25	Warning: 	File has moved from https://www.technex.in/dashboard/?event=robowars to /register/?next=/dashboard/%3Fevent%3Drobowars
+14:56:25	Warning: 	Found for https://www.technex.in/dashboard/?event=astrophotography
+14:56:25	Warning: 	File has moved from https://www.technex.in/dashboard/?event=astrophotography to /register/?next=/dashboard/%3Fevent%3Dastrophotography
+14:56:25	Warning: 	Found for https://www.technex.in/dashboard/?event=astroquiz
+14:56:25	Warning: 	File has moved from https://www.technex.in/dashboard/?event=astroquiz to /register/?next=/dashboard/%3Fevent%3Dastroquiz
+14:56:29	Warning: 	Found for https://www.technex.in/dashboard/?event=exploring-interstellar
+14:56:29	Warning: 	File has moved from https://www.technex.in/dashboard/?event=exploring-interstellar to /register/?next=/dashboard/%3Fevent%3Dexploring-interstellar
+14:56:30	Warning: 	Found for https://www.technex.in/dashboard/?event=scientists-utopia
+14:56:30	Warning: 	File has moved from https://www.technex.in/dashboard/?event=scientists-utopia to /register/?next=/dashboard/%3Fevent%3Dscientists-utopia
+14:56:31	Warning: 	Link https://www.technex.in/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+14:56:32	Error: 	"Forbidden" (403) at link https://www.thejc.com/image/policy:1.85253:1480906297/Ada-Yonath.jpg?f=16x9&h=576&w=1024&$p$f$h$w=acf1264 (from https://www.technex.in/talks/)
+14:56:51	Warning: 	Found for https://www.technex.in/dashboard/
+14:56:51	Warning: 	File has moved from https://www.technex.in/dashboard/ to /register/?next=/dashboard/
+14:57:00	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://www.technex.inhttps://d1mteuyxkcon0n.cloudfront.net/css/images/img-fb.jpg (from https://www.technex.in/conclave/)
+14:57:24	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sproutsend.com/wp-content/plugins/jetpack/css/jetpack.css?ver=6.6.1 (from https://www.technex.in/initiative/)
+14:57:24	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sproutsend.com/wp-includes/js/jquery/jquery.js?ver=1.12.4 (from https://www.technex.in/initiative/)
+14:58:13	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.technex.in/fbConnect/ (from https://www.technex.in/register/)
+15:00:01	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.technex.inhttps://d1mteuyxkcon0n.cloudfront.net/css/images/img-fb.jpg (from https://www.technex.in/conclave/)
+15:00:05	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/prowebpro/wp-content/plugins/woocommerce/assets/fonts/star.eot (from https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/woocommerce.css)
+15:00:05	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/prowebpro/wp-content/plugins/woocommerce/assets/fonts/star.woff (from https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/woocommerce.css)
+15:00:05	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/prowebpro/wp-content/plugins/woocommerce/assets/fonts/star.ttf (from https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/woocommerce.css)
+15:00:05	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/prowebpro/wp-content/plugins/woocommerce/assets/fonts/star.svg (from https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/woocommerce.css)
+15:00:05	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/prowebpro/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot (from https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/woocommerce.css)
+15:00:05	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/prowebpro/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff (from https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/woocommerce.css)
+15:00:05	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/prowebpro/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf (from https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/woocommerce.css)
+15:00:05	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/prowebpro/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.svg (from https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/woocommerce.css)
+15:00:05	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/prowebpro/wp-content/plugins/woocommerce/assets/images/icons/loader.svg (from https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/woocommerce.css)
+15:00:05	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/prowebpro/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/visa.svg (from https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/woocommerce.css)
+15:00:05	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/prowebpro/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/mastercard.svg (from https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/woocommerce.css)
+15:00:05	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/prowebpro/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/laser.svg (from https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/woocommerce.css)
+15:00:05	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/prowebpro/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/diners.svg (from https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/woocommerce.css)
+15:00:05	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/prowebpro/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/maestro.svg (from https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/woocommerce.css)
+15:00:05	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/prowebpro/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/jcb.svg (from https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/woocommerce.css)
+15:00:05	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/prowebpro/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/amex.svg (from https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/woocommerce.css)
+15:00:05	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/prowebpro/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/discover.svg (from https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/woocommerce.css)
+15:00:05	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/prowebpro/wp-content/themes/prowebpro/fonts/glyphicons-halflings-regular.eot (from https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/bootstrap.min.css)
+15:00:05	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/prowebpro/wp-content/themes/prowebpro/fonts/glyphicons-halflings-regular.woff (from https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/bootstrap.min.css)
+15:00:05	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/prowebpro/wp-content/themes/prowebpro/fonts/glyphicons-halflings-regular.ttf (from https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/bootstrap.min.css)
+15:00:05	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/prowebpro/wp-content/themes/prowebpro/fonts/glyphicons-halflings-regular.svg (from https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/bootstrap.min.css)
+15:00:05	Error: 	"Not Found" (404) at link ewiya.com/prowebpro/wp-content/themes/prowebpro/images/pricing_bg_img.jpg (from https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/style.css)
+15:00:05	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/prowebpro/wp-content/themes/prowebpro/fonts/font-awesome/fontawesome-webfont.eot (from https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/font-awesome.min.css)
+15:00:05	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/prowebpro/wp-content/themes/prowebpro/fonts/font-awesome/fontawesome-webfont.woff (from https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/font-awesome.min.css)
+15:00:05	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/prowebpro/wp-content/themes/prowebpro/fonts/font-awesome/fontawesome-webfont.ttf (from https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/font-awesome.min.css)
+15:00:05	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/prowebpro/wp-content/themes/prowebpro/fonts/font-awesome/fontawesome-webfont.svg (from https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/font-awesome.min.css)
+15:00:05	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/prowebpro/wp-content/themes/prowebpro/fonts/et-line/et-line.eot (from https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/etline-icon.css)
+15:00:05	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/prowebpro/wp-content/themes/prowebpro/fonts/et-line/et-line.woff (from https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/etline-icon.css)
+15:00:05	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/prowebpro/wp-content/themes/prowebpro/fonts/et-line/et-line.ttf (from https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/etline-icon.css)
+15:00:05	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/prowebpro/wp-content/themes/prowebpro/fonts/et-line/et-line.svg (from https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/etline-icon.css)
+15:00:05	Error: 	"Not Found" (404) at link ewiya.com/prowebpro/wp-content/themes/prowebpro/css/grabbing.png (from https://d1mteuyxkcon0n.cloudfront.net/conclave2019/css/owl.carousel.css)
+15:00:23	Error: 	"Not Found" (404) at link https://10x10philanthropy.com/wp-content/themes/charitus/assets/plugins/css/owl.video.play.png (from https://www.technex.in/static/sponsorsnew19/wp-content/themes/charitus/assets/plugins/css/owl.css)
+15:00:23	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/static/facebook.png (from https://d1mteuyxkcon0n.cloudfront.net/login2_files2/assets/css/style.css)
+15:00:23	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/css/images/ui-bg_flat_75_ffffff_40x100.png (from https://d1mteuyxkcon0n.cloudfront.net/css/jquery-ui.css)
+15:00:23	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png (from https://d1mteuyxkcon0n.cloudfront.net/css/jquery-ui.css)
+15:00:23	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/css/images/ui-bg_glass_75_e6e6e6_1x400.png (from https://d1mteuyxkcon0n.cloudfront.net/css/jquery-ui.css)
+15:00:23	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/css/images/ui-bg_glass_75_dadada_1x400.png (from https://d1mteuyxkcon0n.cloudfront.net/css/jquery-ui.css)
+15:00:23	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/css/images/ui-bg_glass_65_ffffff_1x400.png (from https://d1mteuyxkcon0n.cloudfront.net/css/jquery-ui.css)
+15:00:23	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/css/images/ui-bg_glass_55_fbf9ee_1x400.png (from https://d1mteuyxkcon0n.cloudfront.net/css/jquery-ui.css)
+15:00:23	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/css/images/ui-bg_glass_95_fef1ec_1x400.png (from https://d1mteuyxkcon0n.cloudfront.net/css/jquery-ui.css)
+15:00:23	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/css/images/ui-icons_222222_256x240.png (from https://d1mteuyxkcon0n.cloudfront.net/css/jquery-ui.css)
+15:00:23	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/css/images/ui-icons_888888_256x240.png (from https://d1mteuyxkcon0n.cloudfront.net/css/jquery-ui.css)
+15:00:23	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/css/images/ui-icons_454545_256x240.png (from https://d1mteuyxkcon0n.cloudfront.net/css/jquery-ui.css)
+15:00:23	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/css/images/ui-icons_2e83ff_256x240.png (from https://d1mteuyxkcon0n.cloudfront.net/css/jquery-ui.css)
+15:00:23	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/css/images/ui-icons_cd0a0a_256x240.png (from https://d1mteuyxkcon0n.cloudfront.net/css/jquery-ui.css)
+15:00:23	Error: 	"Not Found" (404) at link https://d1mteuyxkcon0n.cloudfront.net/css/images/ui-bg_flat_0_aaaaaa_40x100.png (from https://d1mteuyxkcon0n.cloudfront.net/css/jquery-ui.css)
+15:00:23	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.technex.in/fbConnect/ (from https://www.technex.in/register/)
+15:00:25	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.technex.inhttps://d1mteuyxkcon0n.cloudfront.net/css/images/img-fb.jpg (from https://www.technex.in/conclave/)
+15:00:25	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.technex.in/fbConnect/ (from https://www.technex.in/register/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 21 seconds : 571 links scanned, 479 files written (38883811 bytes overall) [26296633 bytes received at 38614 bytes/sec], 18327041 bytes transferred using HTTP compression in 260 files, ratio 29%, 4.5 requests per connection
+(49 errors, 78 warnings, 0 messages)
